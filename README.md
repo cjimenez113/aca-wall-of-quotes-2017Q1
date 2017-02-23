@@ -57,3 +57,6 @@ So your section should look something like this:
 
 - "Make way for the homo superior" (David Bowie) Added 02/22/2017
 >>>>>>> e1a906f8a4653db72813caeb2144392615eb8420
+
+### chris Jimenez
+-"I hope I did this right" (Chris Jimenez) 02/22/2017
