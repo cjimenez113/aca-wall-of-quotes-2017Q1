@@ -53,3 +53,6 @@ So your section should look something like this:
 ### Alex Gaw
 
 - "Make way for the homo superior" (David Bowie) Added 02/22/2017
+
+### Chris Jimenez
+- "No man has a good enough memory to be a successful liar" (Abe Lincoln) 02/22/2017
